@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercice1Persistence</string>
+    <string name="nom">Nom</string>
+    <string name="title">Exrecice 2 / Activité 1</string>
+    <string name="title2">Exrecice 2 / Activité 2</string>
+    <string name="prenom">Prenom</string>
+    <string name="age">Age</string>
+    <string name="phone">Téléphone</string>
+    <string name="password">Mot de passe</string>
+    <string name="valider">Valider</string>
+    <string name="Soumettre">Soumettre</string>
+</resources>
